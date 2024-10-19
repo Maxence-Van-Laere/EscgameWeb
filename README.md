@@ -22,7 +22,7 @@ Bienvenue sur la branche `gh-pages` du projet **BDD_Escgame_Web**. Cette branche
 ## Utilisation
 
 Pour accéder à l'application déployée sur GitHub Pages, rendez-vous à l'URL suivante :  
-**[Lien vers l'application](https://<votre_nom_utilisateur>.github.io/BDD_Escgame_Web/)**
+**[Lien vers l'application](https://Max-Van-Laere.github.io/BDD_Escgame_Web/)**
 
 
 ## Remarques
